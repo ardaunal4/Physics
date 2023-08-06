@@ -1,2 +1,2 @@
 # Physics
-Physics simulation codes which are written for lessons.
+There are some Physics simulation codes which are written for lesson homeworks.
